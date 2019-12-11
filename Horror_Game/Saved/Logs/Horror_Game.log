@@ -664,3 +664,1304 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.11-12.07.07:855][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
 [2019.12.11-12.07.07:946][856]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/ThirdPersonCharacter_Auto272EC8D6D42DE9E5111EC85BC49A3041D.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
 [2019.12.11-12.07.07:948][856]LogFileHelpers: Auto-saving content packages took 0.152
+[2019.12.11-12.14.29:098][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\oskar.emanuelsson1\Desktop\Halfpickup.png)
+[2019.12.11-12.14.29:112][735]LogTexture: Display: Building textures: Halfpickup (BGRA8, 375X375)
+[2019.12.11-12.14.43:431][416]LogMaterial: Display: Missing cached shader map for material halfPickupMat, compiling. 
+[2019.12.11-12.14.43:515][417]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.11-12.14.43:515][417]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.11-12.14.43:515][417]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.11-12.14.46:919][600]LogAssetEditorManager: Opening Asset editor for Material /Game/ThirdPersonBP/Blueprints/Textures/halfPickupMat.halfPickupMat
+[2019.12.11-12.14.46:931][600]LogMaterial: Display: Missing cached shader map for material halfPickupMat, compiling. 
+[2019.12.11-12.14.47:284][600]LogMaterial: Display: Missing cached shader map for material halfPickupMat, compiling. 
+[2019.12.11-12.14.47:317][600]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.11-12.14.48:592][660]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2019.12.11-12.14.49:720][734]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2019.12.11-12.14.50:182][764]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2019.12.11-12.14.51:676][861]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2019.12.11-12.14.52:011][882]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.11-12.14.52:919][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.14.52:946][943]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.12.11-12.14.53:307][966]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2019.12.11-12.14.54:589][ 47]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2019.12.11-12.14.54:928][ 69]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.12.11-12.14.55:140][ 83]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.12.11-12.14.55:896][132]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2019.12.11-12.14.57:143][206]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.11-12.14.57:312][214]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.12.11-12.14.57:838][235]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.12.11-12.14.57:964][240]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.12.11-12.14.58:947][290]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.12.11-12.14.59:111][297]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2019.12.11-12.14.59:570][315]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.12.11-12.15.00:352][347]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2019.12.11-12.15.00:407][349]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2019.12.11-12.15.00:671][360]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.12.11-12.15.02:284][444]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.12.11-12.15.02:599][462]LogMaterial: Display: Missing cached shader map for material halfPickupMat, compiling. 
+[2019.12.11-12.15.02:615][462]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.12.11-12.15.02:620][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.12.11-12.15.02:633][462]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2019.12.11-12.15.02:642][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.11-12.15.02:653][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.12.11-12.15.04:639][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.11-12.15.04:655][587]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2019.12.11-12.15.04:804][595]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2019.12.11-12.15.05:114][613]LogMaterial: Display: Missing cached shader map for material halfPickupMat, compiling. 
+[2019.12.11-12.15.05:674][647]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2019.12.11-12.15.05:773][651]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2019.12.11-12.15.06:005][668]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2019.12.11-12.15.07:488][763]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2019.12.11-12.15.07:538][766]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2019.12.11-12.15.07:651][774]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2019.12.11-12.15.08:852][834]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2019.12.11-12.15.08:929][836]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2019.12.11-12.15.08:992][838]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.12.11-12.15.09:338][848]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.11-12.15.09:526][851]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2019.12.11-12.15.09:628][852]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2019.12.11-12.15.09:966][861]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2019.12.11-12.15.10:045][862]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2019.12.11-12.15.10:045][862]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2019.12.11-12.15.10:370][868]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.11-12.15.10:455][870]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.12.11-12.15.10:471][871]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2019.12.11-12.15.10:550][874]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.12.11-12.15.10:785][881]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2019.12.11-12.15.11:260][894]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2019.12.11-12.15.11:287][895]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2019.12.11-12.15.11:369][897]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.12.11-12.15.11:847][910]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.12.11-12.15.11:969][915]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.11-12.15.12:030][917]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2019.12.11-12.15.12:528][927]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.12.11-12.15.12:613][929]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.12.11-12.15.12:789][934]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.11-12.15.13:613][948]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.11-12.15.13:614][948]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.11-12.15.13:614][948]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.11-12.15.13:614][948]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.11-12.15.13:614][948]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.11-12.15.13:614][948]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-12.16.11:958][275]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.11-12.17.05:797][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.17.08:148][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.12.11-12.17.08:149][663]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.040
+[2019.12.11-12.17.08:155][663]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Textures/Halfpickup] ([1] browsable assets)...
+[2019.12.11-12.17.08:164][663]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Textures/Halfpickup.Halfpickup]
+[2019.12.11-12.17.08:164][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Textures/Halfpickup]
+[2019.12.11-12.17.08:176][663]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Halfpickup_Auto33CC76D8E43D61C10C030DAA4AEA35073.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Textures/Halfpickup_Auto3.uasset'
+[2019.12.11-12.17.08:177][663]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Textures/halfPickupMat] ([1] browsable assets)...
+[2019.12.11-12.17.08:196][663]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Blueprints/Textures/halfPickupMat.halfPickupMat]
+[2019.12.11-12.17.08:196][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Textures/halfPickupMat]
+[2019.12.11-12.17.08:213][663]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/halfPickupMat_Auto39980AF9047671A9F4F19D9BEAF5C1668.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Textures/halfPickupMat_Auto3.uasset'
+[2019.12.11-12.17.08:214][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/halfPickup] ([1] browsable assets)...
+[2019.12.11-12.17.08:215][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/halfPickup]
+[2019.12.11-12.17.08:227][663]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/halfPickup_Auto3041C91B94C19A00A3B96DEBB03C1E396.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/halfPickup_Auto3.uasset'
+[2019.12.11-12.17.08:228][663]LogFileHelpers: Auto-saving content packages took 0.078
+[2019.12.11-12.19.25:514][465]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\oskar.emanuelsson1\Desktop\FullPickup.png)
+[2019.12.11-12.19.25:519][465]LogTexture: Display: Building textures: FullPickup (BGRA8, 375X375)
+[2019.12.11-12.19.41:976][734]LogMaterial: Display: Missing cached shader map for material fullPickupMat, compiling. 
+[2019.12.11-12.19.42:013][735]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.11-12.19.42:013][735]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.11-12.19.42:013][735]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.11-12.19.44:510][881]LogAssetEditorManager: Opening Asset editor for Material /Game/ThirdPersonBP/Blueprints/Textures/fullPickupMat.fullPickupMat
+[2019.12.11-12.19.44:514][881]LogMaterial: Display: Missing cached shader map for material fullPickupMat, compiling. 
+[2019.12.11-12.19.44:604][881]LogMaterial: Display: Missing cached shader map for material fullPickupMat, compiling. 
+[2019.12.11-12.19.44:627][881]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.11-12.19.49:458][158]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2019.12.11-12.19.50:273][191]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2019.12.11-12.19.50:319][193]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2019.12.11-12.19.51:058][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.11-12.19.51:284][239]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2019.12.11-12.19.52:886][343]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.12.11-12.19.53:949][412]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.11-12.19.55:531][511]LogMaterial: Display: Missing cached shader map for material fullPickupMat, compiling. 
+[2019.12.11-12.19.55:569][512]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2019.12.11-12.19.55:842][531]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2019.12.11-12.19.56:331][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2019.12.11-12.19.57:118][594]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.11-12.19.57:298][601]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.12.11-12.19.57:395][605]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.12.11-12.19.57:984][629]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2019.12.11-12.19.58:324][649]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.12.11-12.19.58:425][654]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2019.12.11-12.19.59:370][717]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2019.12.11-12.19.59:497][725]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.12.11-12.19.59:702][739]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2019.12.11-12.20.00:400][773]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.12.11-12.20.00:522][778]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.12.11-12.20.00:537][779]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.12.11-12.20.01:033][799]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.12.11-12.20.01:942][836]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2019.12.11-12.20.02:000][838]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.12.11-12.20.02:148][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.12.11-12.20.03:805][950]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2019.12.11-12.20.04:104][962]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.12.11-12.20.04:245][965]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.12.11-12.20.05:098][  1]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.11-12.20.05:384][ 12]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.11-12.20.05:612][ 21]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.12.11-12.20.06:406][ 52]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.11-12.20.06:406][ 52]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.11-12.20.06:406][ 52]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.11-12.20.06:406][ 52]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.11-12.20.06:406][ 52]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.11-12.20.06:406][ 52]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-12.21.29:743][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.12.11-12.21.29:745][843]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/halfBatteryPickup.halfBatteryPickup:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/halfPickup.PackageMetaData'
+[2019.12.11-12.21.29:745][843]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/halfBatteryPickup.SKEL_halfBatteryPickup_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/halfPickup.PackageMetaData'
+[2019.12.11-12.21.29:745][843]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/halfBatteryPickup.halfBatteryPickup_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/halfPickup.PackageMetaData'
+[2019.12.11-12.21.29:745][843]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/halfBatteryPickup.halfBatteryPickup:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/halfPickup.PackageMetaData'
+[2019.12.11-12.21.29:745][843]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/halfBatteryPickup.halfBatteryPickup:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/halfPickup.PackageMetaData'
+[2019.12.11-12.21.29:745][843]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/halfBatteryPickup.halfBatteryPickup:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/halfPickup.PackageMetaData'
+[2019.12.11-12.21.29:798][843]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/halfBatteryPickupE0A322A34FDB75AB4E648B8D87F8CF73.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Content/ThirdPersonBP/Blueprints/halfBatteryPickup.uasset'
+[2019.12.11-12.21.29:988][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.12.11-12.21.30:031][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.12.11-12.21.30:063][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.12.11-12.21.31:397][889]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/halfBatteryPickup.halfBatteryPickup
+[2019.12.11-12.21.44:355][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-12.21.48:482][280]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-12.22.10:621][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-12.22.56:260][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.23.22:930][718]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/halfBatteryPickup13C3F2BB4723CD2E9002E59E1D21644A.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Content/ThirdPersonBP/Blueprints/halfBatteryPickup.uasset'
+[2019.12.11-12.23.26:353][838]LogSlate: Window 'Message' being destroyed
+[2019.12.11-12.27.08:836][ 16]LogUObjectHash: Compacting FUObjectHashTables data took  10.32ms
+[2019.12.11-12.27.09:370][ 16]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/ThirdPersonExampleMap_Auto44B1365FF44D0888CDD425B9A722D7C9D.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2019.12.11-12.27.09:384][ 16]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.712
+[2019.12.11-12.27.09:384][ 16]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.712
+[2019.12.11-12.27.09:387][ 16]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.12.11-12.27.09:453][ 16]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.12.11-12.27.09:454][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.12.11-12.27.09:582][ 16]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/ThirdPersonCharacter_Auto4373EA6F0493517E9429C5C8D08B97BD7.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2019.12.11-12.27.09:587][ 16]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/halfBatteryPickup] ([1] browsable assets)...
+[2019.12.11-12.27.09:662][ 16]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/halfBatteryPickup.halfBatteryPickup]
+[2019.12.11-12.27.09:663][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/halfBatteryPickup]
+[2019.12.11-12.27.09:702][ 16]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/halfBatteryPickup_Auto47A69C3AC4422D15A100C5996E77324EE.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/halfBatteryPickup_Auto4.uasset'
+[2019.12.11-12.27.09:703][ 16]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Textures/FullPickup] ([1] browsable assets)...
+[2019.12.11-12.27.09:712][ 16]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Textures/FullPickup.FullPickup]
+[2019.12.11-12.27.09:712][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Textures/FullPickup]
+[2019.12.11-12.27.09:724][ 16]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/FullPickup_Auto4308F7FD4491BD71BEC1C2CBFC87B1DFF.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Textures/FullPickup_Auto4.uasset'
+[2019.12.11-12.27.09:726][ 16]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Textures/fullPickupMat] ([1] browsable assets)...
+[2019.12.11-12.27.09:779][ 16]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Blueprints/Textures/fullPickupMat.fullPickupMat]
+[2019.12.11-12.27.09:779][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Textures/fullPickupMat]
+[2019.12.11-12.27.09:803][ 16]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/fullPickupMat_Auto4B72D77F74F9A020D1EF64F934C471E99.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Textures/fullPickupMat_Auto4.uasset'
+[2019.12.11-12.27.09:804][ 16]LogFileHelpers: Auto-saving content packages took 0.418
+[2019.12.11-12.31.33:937][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.31.42:609][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.31.47:402][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.31.47:458][654]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-12.31.47:482][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.31.47:482][654]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.11-12.31.47:483][654]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.12.11-12.31.47:757][654]LogPlayLevel: [PlayLevel] Compiling halfBatteryPickup before play...
+[2019.12.11-12.31.48:045][654]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2019.12.11-12.31.48:045][654]LogPlayLevel: PlayLevel: Blueprint regeneration took 563 ms (2 blueprints)
+[2019.12.11-12.31.48:045][654]PIE: New page: PIE session: ThirdPersonExampleMap (11 dec 2019 14:31:48)
+[2019.12.11-12.31.48:046][654]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.11-12.31.48:060][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014498s)
+[2019.12.11-12.31.48:062][654]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.11-12.31.48:063][654]LogPlayLevel: PIE: World Init took: (0.002421s)
+[2019.12.11-12.31.48:063][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017195s)
+[2019.12.11-12.31.48:108][654]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.12.11-12.31.48:127][654]LogInit: XAudio2 using 'Hörlurar (Oskars Airpods Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.11-12.31.48:137][654]LogInit: FAudioDevice initialized.
+[2019.12.11-12.31.48:143][654]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.11-12.31.48:146][654]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.11-13.31.48
+[2019.12.11-12.31.48:146][654]LogWorld: Bringing up level for play took: 0.001697
+[2019.12.11-12.31.48:146][654]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.11-12.31.48:148][654]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,562
+[2019.12.11-12.31.48:148][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.31.56:140][268]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-12.32.08:048][332]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.11-12.32.28:205][392]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2019.12.11-12.32.34:344][685]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.32.34:344][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-12.32.34:344][685]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.11-12.32.34:344][685]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-12.32.34:360][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-12.32.34:360][685]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.32.34:412][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-12.32.34:417][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.12.11-12.32.34:451][686]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.11-12.33.04:331][947]LogEditorTransaction: Undo Add Component Nodes
+[2019.12.11-12.33.04:369][947]LogMaterial: Display: Missing cached shader map for material halfPickupMat, compiling. 
+[2019.12.11-12.33.04:397][947]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.11-12.33.04:398][947]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.11-12.33.04:398][947]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.11-12.33.04:404][947]LogMaterial: Display: Missing cached shader map for material fullPickupMat, compiling. 
+[2019.12.11-12.33.05:167][988]LogEditorTransaction: Undo Add Component
+[2019.12.11-12.33.05:204][988]LogMaterial: Display: Missing cached shader map for material halfPickupMat, compiling. 
+[2019.12.11-12.33.05:223][988]LogMaterial: Display: Missing cached shader map for material fullPickupMat, compiling. 
+[2019.12.11-12.33.05:828][ 27]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2019.12.11-12.33.05:948][ 35]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2019.12.11-12.33.05:966][ 36]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.12.11-12.33.06:553][ 75]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2019.12.11-12.33.06:563][ 76]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2019.12.11-12.33.06:698][ 85]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2019.12.11-12.33.06:840][ 94]LogEditorTransaction: Undo Delete current selection
+[2019.12.11-12.33.06:860][ 94]LogMaterial: Display: Missing cached shader map for material halfPickupMat, compiling. 
+[2019.12.11-12.33.06:884][ 94]LogMaterial: Display: Missing cached shader map for material fullPickupMat, compiling. 
+[2019.12.11-12.33.07:244][117]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2019.12.11-12.33.07:260][118]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2019.12.11-12.33.07:408][128]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.12.11-12.33.07:964][165]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2019.12.11-12.33.08:000][167]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2019.12.11-12.33.08:104][174]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2019.12.11-12.33.08:886][225]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2019.12.11-12.33.08:950][229]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2019.12.11-12.33.09:020][234]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2019.12.11-12.33.09:354][254]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2019.12.11-12.33.09:512][257]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2019.12.11-12.33.09:563][259]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2019.12.11-12.33.10:394][272]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.12.11-12.33.10:589][276]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2019.12.11-12.33.10:827][280]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.12.11-12.33.11:434][295]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2019.12.11-12.33.11:456][296]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.12.11-12.33.11:654][299]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2019.12.11-12.33.12:224][311]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2019.12.11-12.33.12:277][313]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2019.12.11-12.33.12:409][318]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2019.12.11-12.33.12:893][331]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.11-12.33.12:893][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.11-12.33.13:042][334]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.11-12.33.13:182][335]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.11-12.33.13:182][335]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.11-12.33.13:182][335]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.11-12.33.13:182][335]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.11-12.33.13:182][335]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.11-12.33.13:182][335]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-12.33.13:353][341]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.12.11-12.33.13:376][342]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.12.11-12.33.13:505][347]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.12.11-12.33.13:745][353]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.12.11-12.33.13:807][355]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2019.12.11-12.33.13:997][363]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.12.11-12.33.13:997][363]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.12.11-12.33.14:245][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.12.11-12.33.14:412][372]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.12.11-12.33.14:895][380]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2019.12.11-12.33.14:960][382]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2019.12.11-12.33.15:104][385]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.12.11-12.33.15:662][398]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.12.11-12.33.15:795][401]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.11-12.33.15:897][404]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2019.12.11-12.33.16:524][417]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.12.11-12.33.16:639][419]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.12.11-12.33.16:749][421]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.11-12.33.17:806][443]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.11-12.33.17:806][443]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.11-12.33.17:806][443]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.11-12.33.17:806][443]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.11-12.33.17:806][443]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.11-12.33.17:806][443]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-12.34.08:591][  2]BlueprintLog: New page: Compile halfBatteryPickup
+[2019.12.11-12.34.08:895][  2]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.12.11-12.34.17:129][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.34.36:257][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.35.00:751][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.35.16:816][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.35.24:730][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.35.25:464][ 59]BlueprintLog: New page: Compile halfBatteryPickup
+[2019.12.11-12.35.25:791][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2019.12.11-12.35.33:737][414]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-12.35.33:762][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.35.33:762][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-12.35.33:762][414]PIE: New page: PIE session: ThirdPersonExampleMap (11 dec 2019 14:35:33)
+[2019.12.11-12.35.33:763][414]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.11-12.35.33:782][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018269s)
+[2019.12.11-12.35.33:783][414]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.11-12.35.33:784][414]LogPlayLevel: PIE: World Init took: (0.002084s)
+[2019.12.11-12.35.33:784][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020586s)
+[2019.12.11-12.35.33:833][414]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.12.11-12.35.33:855][414]LogInit: XAudio2 using 'Hörlurar (Oskars Airpods Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.11-12.35.33:869][414]LogInit: FAudioDevice initialized.
+[2019.12.11-12.35.33:881][414]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.11-12.35.33:883][414]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.11-13.35.33
+[2019.12.11-12.35.33:884][414]LogWorld: Bringing up level for play took: 0.002423
+[2019.12.11-12.35.33:884][414]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.11-12.35.33:886][414]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,288
+[2019.12.11-12.35.33:886][414]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.35.37:657][626]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-12.35.39:852][758]LogBlueprintUserMessages: [halfBatteryPickup2_5] hungerMaxed
+[2019.12.11-12.35.42:142][895]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-12.35.43:812][995]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-12.35.45:333][ 86]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-12.35.46:950][183]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-12.35.53:737][590]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.11-12.36.08:673][485]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-12.36.10:556][598]LogBlueprintUserMessages: [halfBatteryPickup2_5] hungerMaxed
+[2019.12.11-12.36.13:749][789]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.11-12.36.21:305][242]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-12.36.23:340][364]LogBlueprintUserMessages: [halfBatteryPickup2_5] hungerMaxed
+[2019.12.11-12.36.26:698][563]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.36.26:699][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-12.36.26:699][563]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.11-12.36.26:699][563]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-12.36.26:716][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-12.36.26:716][563]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.36.26:771][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-12.36.26:776][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.12.11-12.36.26:801][564]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.11-12.36.33:674][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.36.48:244][406]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2019.12.11-12.36.48:790][411]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.12.11-12.36.48:845][412]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2019.12.11-12.36.48:845][412]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2019.12.11-12.36.48:845][412]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2019.12.11-12.36.48:910][412]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.12.11-12.36.49:010][413]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.12.11-12.36.49:098][414]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.12.11-12.37.04:593][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 142
+[2019.12.11-12.37.05:687][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2019.12.11-12.37.05:688][145]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/fullBatteryPickup.SKEL_fullBatteryPickup_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/fullBatteryickup.PackageMetaData'
+[2019.12.11-12.37.05:688][145]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/fullBatteryickup.PackageMetaData'
+[2019.12.11-12.37.05:842][145]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/fullBatteryPickup4A54743543B3986BEFA158BEEAC75A49.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Content/ThirdPersonBP/Blueprints/fullBatteryPickup.uasset'
+[2019.12.11-12.37.06:079][145]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.12.11-12.37.06:128][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.12.11-12.37.06:195][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.12.11-12.37.07:023][160]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 132
+[2019.12.11-12.37.10:009][246]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 122
+[2019.12.11-12.37.12:445][324]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 112
+[2019.12.11-12.37.16:741][569]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 102
+[2019.12.11-12.37.17:430][609]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 92
+[2019.12.11-12.37.17:885][633]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 82
+[2019.12.11-12.37.23:121][895]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 72
+[2019.12.11-12.37.23:536][914]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 62
+[2019.12.11-12.37.27:603][141]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 52
+[2019.12.11-12.37.28:983][219]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2019.12.11-12.37.32:788][383]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2019.12.11-12.37.34:318][472]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.11-12.37.35:121][517]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.11-12.37.37:659][665]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2019.12.11-12.37.38:144][693]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.11-12.37.39:213][756]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.11-12.37.39:959][800]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.11-12.38.14:461][342]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup
+[2019.12.11-12.38.51:905][472]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.12.11-12.38.52:159][472]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/ThirdPersonExampleMap_Auto5AA353643441C400727CEDD8C2CA20BF1.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2019.12.11-12.38.52:162][472]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.309
+[2019.12.11-12.38.52:162][472]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.309
+[2019.12.11-12.38.52:164][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.12.11-12.38.52:220][472]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.12.11-12.38.52:220][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.12.11-12.38.52:288][472]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/ThirdPersonCharacter_Auto5ED03B99146B1117AFAEFFBA42CD138D7.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2019.12.11-12.38.52:290][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/halfBatteryPickup] ([1] browsable assets)...
+[2019.12.11-12.38.52:341][472]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/halfBatteryPickup.halfBatteryPickup]
+[2019.12.11-12.38.52:341][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/halfBatteryPickup]
+[2019.12.11-12.38.52:384][472]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/halfBatteryPickup_Auto5A168C083441B1E2B6BE105B39FD1072B.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/halfBatteryPickup_Auto5.uasset'
+[2019.12.11-12.38.52:385][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/fullBatteryPickup] ([1] browsable assets)...
+[2019.12.11-12.38.52:436][472]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup]
+[2019.12.11-12.38.52:436][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/fullBatteryPickup]
+[2019.12.11-12.38.52:471][472]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/fullBatteryPickup_Auto53D2F87784542FF276BF328B74F8BEEEC.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/fullBatteryPickup_Auto5.uasset'
+[2019.12.11-12.38.52:472][472]LogFileHelpers: Auto-saving content packages took 0.307
+[2019.12.11-12.43.04:370][747]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\oskar.emanuelsson1\Desktop\PowerBig.obj)
+[2019.12.11-12.43.04:409][747]LogFbx: Loading FBX Scene from C:\Users\oskar.emanuelsson1\Desktop\PowerBig.obj
+[2019.12.11-12.43.04:418][747]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.11-12.43.11:632][747]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.11-12.43.11:893][747]LogMaterial: Display: Missing cached shader map for material defaultMat, compiling. 
+[2019.12.11-12.43.11:909][747]LogFbx: Display: Triangulating static mesh default
+[2019.12.11-12.43.11:941][747]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.11-12.43.11:941][747]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.11-12.43.11:941][747]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.11-12.43.11:945][747]LogStaticMesh: Building static mesh PowerBig...
+[2019.12.11-12.43.11:959][747]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Blueprints/Models/PowerBig.PowerBig
+[2019.12.11-12.43.11:961][747]LogStaticMesh: Warning: PowerBig has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.11-12.43.11:961][747]LogStaticMesh: Warning: PowerBig has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.11-12.43.11:982][747]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.11-12.43.11:982][747]FBXImport: Warning: PowerBig has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.11-12.43.11:982][747]FBXImport: Warning: PowerBig has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.11-12.43.12:031][747]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\oskar.emanuelsson1\Desktop\PowerSmall.obj)
+[2019.12.11-12.43.12:054][747]LogFbx: Loading FBX Scene from C:\Users\oskar.emanuelsson1\Desktop\PowerSmall.obj
+[2019.12.11-12.43.12:057][747]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.11-12.43.12:060][747]LogFbx: Display: Triangulating static mesh default
+[2019.12.11-12.43.12:074][747]LogStaticMesh: Building static mesh PowerSmall...
+[2019.12.11-12.43.12:081][747]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Blueprints/Models/PowerSmall.PowerSmall
+[2019.12.11-12.43.12:082][747]LogStaticMesh: Warning: PowerSmall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.11-12.43.12:082][747]LogStaticMesh: Warning: PowerSmall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.11-12.43.12:092][747]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.11-12.43.12:092][747]FBXImport: Warning: PowerSmall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.11-12.43.12:092][747]FBXImport: Warning: PowerSmall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.11-12.43.58:629][437]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-12.43.58:636][437]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-12.44.03:895][636]LogRenderer: Reallocating scene render targets to support 1144x900 Format 10 NumSamples 1 (Frame:1).
+[2019.12.11-12.44.16:895][133]LogEditorTransaction: Undo Remove Components
+[2019.12.11-12.44.16:943][133]LogMaterial: Display: Missing cached shader map for material halfPickupMat, compiling. 
+[2019.12.11-12.44.16:965][133]LogMaterial: Display: Missing cached shader map for material fullPickupMat, compiling. 
+[2019.12.11-12.44.16:984][133]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.11-12.44.16:984][133]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.11-12.44.16:984][133]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.11-12.44.18:460][195]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2019.12.11-12.44.18:468][195]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2019.12.11-12.44.19:537][239]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2019.12.11-12.44.19:671][244]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2019.12.11-12.44.19:719][246]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2019.12.11-12.44.20:221][264]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2019.12.11-12.44.20:416][272]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2019.12.11-12.44.20:660][282]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2019.12.11-12.44.20:833][289]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2019.12.11-12.44.21:883][334]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.12.11-12.44.21:923][335]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2019.12.11-12.44.22:631][365]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.12.11-12.44.23:817][415]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2019.12.11-12.44.23:956][420]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.12.11-12.44.24:139][428]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2019.12.11-12.44.25:422][481]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2019.12.11-12.44.25:810][497]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2019.12.11-12.44.26:263][515]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2019.12.11-12.44.26:818][529]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.11-12.44.27:336][551]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.11-12.44.27:555][560]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.11-12.44.27:600][561]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.11-12.44.27:600][561]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.11-12.44.27:600][561]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.11-12.44.27:600][561]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.11-12.44.27:600][561]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.11-12.44.27:600][561]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-12.44.28:031][580]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2019.12.11-12.44.28:535][600]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2019.12.11-12.44.28:621][604]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.12.11-12.44.28:968][618]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2019.12.11-12.44.29:643][647]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.11-12.44.29:750][652]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.12.11-12.44.30:253][673]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.12.11-12.44.30:332][676]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.12.11-12.44.30:904][700]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.12.11-12.44.31:947][739]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2019.12.11-12.44.32:274][754]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.12.11-12.44.32:387][759]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.12.11-12.44.32:990][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.44.33:063][787]BlueprintLog: New page: Compile fullBatteryPickup
+[2019.12.11-12.44.33:068][787]LogBlueprint: Error: [Compiler fullBatteryPickup] The property associated with  <Unnamed>  could not be found in '/Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup_C'
+[2019.12.11-12.44.33:068][787]LogBlueprint: Error: [Compiler fullBatteryPickup] The property associated with  Player Battery  could not be found in '/Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup_C'
+[2019.12.11-12.44.33:069][787]LogBlueprint: Error: [Compiler fullBatteryPickup] The property associated with  Player Battery  could not be found in '/Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup_C'
+[2019.12.11-12.44.33:069][787]LogBlueprint: Error: [Compiler fullBatteryPickup] The property associated with  Player Battery  could not be found in '/Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup_C'
+[2019.12.11-12.44.33:448][787]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.12.11-12.44.33:477][787]LogUObjectHash: Compacting FUObjectHashTables data took   8.94ms
+[2019.12.11-12.44.33:629][788]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.12.11-12.44.33:832][796]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.12.11-12.44.35:073][849]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.11-12.44.35:104][850]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.11-12.44.35:803][880]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.12.11-12.44.37:266][942]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.11-12.44.37:266][942]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.11-12.44.37:266][942]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.11-12.44.37:266][942]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.11-12.44.37:266][942]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.11-12.44.37:266][942]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-12.44.44:077][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.44.44:979][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.44.47:605][378]LogEditorTransaction: Undo Remove Components
+[2019.12.11-12.44.47:644][378]LogMaterial: Display: Missing cached shader map for material halfPickupMat, compiling. 
+[2019.12.11-12.44.47:665][378]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.11-12.44.47:665][378]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.11-12.44.47:665][378]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.11-12.44.47:665][378]LogMaterial: Display: Missing cached shader map for material fullPickupMat, compiling. 
+[2019.12.11-12.44.48:536][409]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2019.12.11-12.44.48:564][409]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2019.12.11-12.44.48:753][418]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2019.12.11-12.44.49:478][448]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2019.12.11-12.44.49:485][448]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2019.12.11-12.44.49:654][454]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2019.12.11-12.44.50:142][476]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2019.12.11-12.44.50:432][486]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2019.12.11-12.44.50:476][488]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2019.12.11-12.44.51:558][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.44.51:710][538]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.12.11-12.44.52:437][569]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.11-12.44.52:437][569]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.12.11-12.44.52:806][584]BlueprintLog: New page: Compile fullBatteryPickup
+[2019.12.11-12.44.52:814][584]LogBlueprint: Error: [Compiler fullBatteryPickup] The property associated with  <Unnamed>  could not be found in '/Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup_C'
+[2019.12.11-12.44.52:814][584]LogBlueprint: Error: [Compiler fullBatteryPickup] The property associated with  Player Battery  could not be found in '/Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup_C'
+[2019.12.11-12.44.52:814][584]LogBlueprint: Error: [Compiler fullBatteryPickup] The property associated with  Player Battery  could not be found in '/Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup_C'
+[2019.12.11-12.44.52:819][584]LogBlueprint: Error: [Compiler fullBatteryPickup] The property associated with  Player Battery  could not be found in '/Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup_C'
+[2019.12.11-12.44.53:172][584]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2019.12.11-12.44.53:278][585]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2019.12.11-12.44.53:288][585]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2019.12.11-12.44.53:776][604]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2019.12.11-12.44.54:936][654]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2019.12.11-12.44.55:182][665]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2019.12.11-12.44.55:655][685]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.11-12.44.56:753][733]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.12.11-12.44.56:888][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.12.11-12.44.57:338][758]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.11-12.44.57:346][758]BlueprintLog: New page: Compile fullBatteryPickup
+[2019.12.11-12.44.57:351][758]LogBlueprint: Error: [Compiler fullBatteryPickup] The property associated with  <Unnamed>  could not be found in '/Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup_C'
+[2019.12.11-12.44.57:351][758]LogBlueprint: Error: [Compiler fullBatteryPickup] The property associated with  Player Battery  could not be found in '/Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup_C'
+[2019.12.11-12.44.57:351][758]LogBlueprint: Error: [Compiler fullBatteryPickup] The property associated with  Player Battery  could not be found in '/Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup_C'
+[2019.12.11-12.44.57:351][758]LogBlueprint: Error: [Compiler fullBatteryPickup] The property associated with  Player Battery  could not be found in '/Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup_C'
+[2019.12.11-12.44.57:672][758]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2019.12.11-12.44.57:672][758]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2019.12.11-12.44.57:678][758]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2019.12.11-12.44.57:711][759]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.11-12.44.57:711][759]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.11-12.44.57:712][759]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.11-12.44.57:712][759]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.11-12.44.57:712][759]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.11-12.44.57:712][759]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-12.44.57:751][759]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.12.11-12.44.58:184][773]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.12.11-12.44.58:280][778]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2019.12.11-12.44.58:662][794]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.12.11-12.44.58:910][805]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.12.11-12.44.59:423][827]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.12.11-12.44.59:737][840]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.12.11-12.45.01:223][905]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2019.12.11-12.45.01:608][922]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.12.11-12.45.02:233][949]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.12.11-12.45.03:455][  1]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.11-12.45.03:704][ 12]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.12.11-12.45.03:940][ 22]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.12.11-12.45.05:171][ 75]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.12.11-12.45.05:467][ 88]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.12.11-12.45.06:156][118]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.12.11-12.45.07:318][168]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.11-12.45.07:318][168]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.11-12.45.07:318][168]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.11-12.45.07:318][168]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.11-12.45.07:318][168]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.11-12.45.07:318][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-12.47.04:985][917]LogEditorTransaction: Undo Add Component
+[2019.12.11-12.47.05:009][917]LogMaterial: Display: Missing cached shader map for material halfPickupMat, compiling. 
+[2019.12.11-12.47.05:036][917]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.11-12.47.05:036][917]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.12.11-12.47.05:036][917]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.11-12.47.05:036][917]LogMaterial: Display: Missing cached shader map for material fullPickupMat, compiling. 
+[2019.12.11-12.47.05:533][932]LogEditorTransaction: Undo Change Number Pin Value
+[2019.12.11-12.47.05:550][932]LogMaterial: Display: Missing cached shader map for material halfPickupMat, compiling. 
+[2019.12.11-12.47.05:569][932]LogMaterial: Display: Missing cached shader map for material fullPickupMat, compiling. 
+[2019.12.11-12.47.05:985][954]LogEditorTransaction: Undo Rename Variable
+[2019.12.11-12.47.06:042][954]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2019.12.11-12.47.06:042][954]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2019.12.11-12.47.06:046][954]LogMaterial: Display: Missing cached shader map for material halfPickupMat, compiling. 
+[2019.12.11-12.47.06:064][954]LogMaterial: Display: Missing cached shader map for material fullPickupMat, compiling. 
+[2019.12.11-12.47.06:113][955]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 42
+[2019.12.11-12.47.06:344][960]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2019.12.11-12.47.06:533][970]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2019.12.11-12.47.06:619][975]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2019.12.11-12.47.07:072][  2]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2019.12.11-12.47.07:209][ 10]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2019.12.11-12.47.07:365][ 19]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2019.12.11-12.47.07:673][ 37]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2019.12.11-12.47.07:923][ 52]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2019.12.11-12.47.08:025][ 58]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2019.12.11-12.47.08:096][ 62]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2019.12.11-12.47.08:557][ 89]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2019.12.11-12.47.09:272][131]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.12.11-12.47.09:443][141]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2019.12.11-12.47.09:719][157]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.12.11-12.47.10:709][214]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2019.12.11-12.47.10:774][217]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.12.11-12.47.11:043][227]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2019.12.11-12.47.12:273][281]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2019.12.11-12.47.12:475][289]BlueprintLog: New page: Compile fullBatteryPickup
+[2019.12.11-12.47.12:793][289]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2019.12.11-12.47.12:793][289]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2019.12.11-12.47.12:801][289]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2019.12.11-12.47.13:004][294]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.12.11-12.47.13:069][295]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.12.11-12.47.13:196][300]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.12.11-12.47.13:206][300]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.11-12.47.13:206][300]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.11-12.47.13:206][300]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.11-12.47.13:206][300]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.11-12.47.13:206][300]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.11-12.47.13:206][300]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-12.47.13:733][322]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.12.11-12.47.13:866][328]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.12.11-12.47.14:086][338]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.12.11-12.47.14:557][358]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.12.11-12.47.14:800][368]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2019.12.11-12.47.14:964][375]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.12.11-12.47.15:319][390]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.12.11-12.47.15:659][404]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.12.11-12.47.15:879][413]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.12.11-12.47.17:244][470]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2019.12.11-12.47.17:469][480]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.12.11-12.47.17:863][503]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.12.11-12.47.18:888][561]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.11-12.47.19:025][569]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.12.11-12.47.19:042][570]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.12.11-12.47.19:933][621]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.12.11-12.47.20:537][656]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.12.11-12.47.20:865][675]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.12.11-12.47.21:734][726]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.11-12.47.21:734][726]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.11-12.47.21:734][726]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.11-12.47.21:734][726]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.11-12.47.21:734][726]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.11-12.47.21:734][726]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-12.47.30:414][244]BlueprintLog: New page: Compile fullBatteryPickup
+[2019.12.11-12.47.30:721][244]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2019.12.11-12.47.57:803][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.48.10:936][865]BlueprintLog: New page: Compile fullBatteryPickup
+[2019.12.11-12.48.11:255][865]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2019.12.11-12.48.21:349][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.48.31:199][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.11-12.48.31:243][460]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.12.11-12.48.31:998][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.48.32:114][491]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-12.48.32:139][491]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.48.32:139][491]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.11-12.48.32:142][491]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.12.11-12.48.32:453][491]LogPlayLevel: [PlayLevel] Compiling halfBatteryPickup before play...
+[2019.12.11-12.48.32:763][491]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2019.12.11-12.48.32:763][491]LogPlayLevel: PlayLevel: Blueprint regeneration took 624 ms (2 blueprints)
+[2019.12.11-12.48.32:764][491]PIE: New page: PIE session: ThirdPersonExampleMap (11 dec 2019 14:48:32)
+[2019.12.11-12.48.32:764][491]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.11-12.48.32:778][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013829s)
+[2019.12.11-12.48.32:779][491]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.11-12.48.32:780][491]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2019.12.11-12.48.32:780][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015377s)
+[2019.12.11-12.48.32:831][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.12.11-12.48.32:848][491]LogInit: XAudio2 using 'Hörlurar (Oskars Airpods Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.11-12.48.32:860][491]LogInit: FAudioDevice initialized.
+[2019.12.11-12.48.32:866][491]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.11-12.48.32:868][491]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.11-13.48.32
+[2019.12.11-12.48.32:869][491]LogWorld: Bringing up level for play took: 0.001772
+[2019.12.11-12.48.32:869][491]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.12.11-12.48.32:871][491]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,261
+[2019.12.11-12.48.32:871][491]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.48.35:890][659]LogBlueprintUserMessages: [fullBatteryPickup_2] hungerMaxed
+[2019.12.11-12.48.52:553][632]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.11-12.49.12:552][730]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2019.12.11-12.49.32:562][927]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 25
+[2019.12.11-12.49.52:570][116]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0
+[2019.12.11-12.49.52:604][117]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:639][118]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:668][119]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:700][120]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:729][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:745][122]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:763][123]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:779][124]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:803][125]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:822][126]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:845][127]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:869][128]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:892][129]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:917][130]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:940][131]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:967][132]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.52:989][133]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:014][134]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:036][135]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:058][136]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:082][137]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:107][138]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:129][139]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:152][140]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:174][141]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:198][142]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:221][143]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:242][144]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:266][145]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:288][146]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:320][147]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:337][148]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:353][149]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:371][150]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:387][151]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:404][152]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:420][153]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:437][154]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:454][155]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:471][156]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:487][157]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:504][158]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:522][159]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:539][160]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:556][161]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:573][162]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:589][163]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:606][164]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:623][165]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:640][166]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:656][167]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:672][168]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:689][169]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:706][170]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:723][171]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:740][172]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:761][173]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:777][174]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:794][175]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:810][176]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:827][177]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:844][178]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:861][179]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:878][180]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:894][181]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:912][182]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:928][183]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:944][184]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:960][185]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:977][186]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.53:994][187]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:010][188]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:028][189]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:044][190]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:060][191]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:077][192]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:094][193]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:111][194]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:127][195]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:144][196]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:160][197]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:178][198]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:194][199]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:210][200]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:228][201]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:244][202]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:262][203]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:278][204]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:295][205]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:311][206]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:361][207]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:384][208]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:405][209]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:511][210]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:548][211]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:607][212]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:640][213]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:662][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:685][215]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:716][216]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:737][217]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:757][218]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:775][219]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:796][220]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:823][221]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:905][222]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:923][223]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:941][224]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:972][225]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.54:993][226]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:011][227]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:032][228]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:050][229]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:067][230]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:084][231]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:106][232]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:123][233]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:140][234]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:158][235]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:176][236]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:199][237]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:218][238]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:234][239]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:251][240]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:268][241]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:284][242]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:301][243]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:318][244]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:334][245]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:351][246]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:370][247]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:386][248]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:403][249]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:420][250]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:437][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:453][252]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:470][253]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:488][254]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:504][255]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:521][256]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:540][257]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:565][258]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:577][259]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:596][260]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:613][261]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:631][262]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:647][263]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:663][264]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:682][265]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:697][266]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:713][267]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:731][268]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:750][269]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:767][270]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:783][271]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:800][272]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:817][273]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:833][274]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:850][275]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:867][276]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:883][277]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:900][278]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:917][279]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:934][280]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:951][281]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:967][282]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.55:984][283]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:000][284]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:017][285]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:034][286]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:050][287]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:067][288]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:084][289]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:100][290]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:117][291]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:134][292]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:150][293]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:167][294]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:183][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:200][296]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:217][297]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:233][298]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:250][299]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:267][300]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:283][301]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:301][302]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:317][303]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:334][304]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:350][305]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:367][306]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:384][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:400][308]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:417][309]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:434][310]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:451][311]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:467][312]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:484][313]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:500][314]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:518][315]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:535][316]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:551][317]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:568][318]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:583][319]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:600][320]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:617][321]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:633][322]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:650][323]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:667][324]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:683][325]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:700][326]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:717][327]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:733][328]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:750][329]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:767][330]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:784][331]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:801][332]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:817][333]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:834][334]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:850][335]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:867][336]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:884][337]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:901][338]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:918][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:934][340]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:950][341]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:967][342]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.56:984][343]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:000][344]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:017][345]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:034][346]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:050][347]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:067][348]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:084][349]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:100][350]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:117][351]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:134][352]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:150][353]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:167][354]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:184][355]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:200][356]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:218][357]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:234][358]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:251][359]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:268][360]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:284][361]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:301][362]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:322][363]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:339][364]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:354][365]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:368][366]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:380][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:392][368]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:405][369]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:419][370]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:433][371]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:447][372]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:464][373]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:480][374]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:497][375]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:513][376]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:531][377]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:548][378]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:564][379]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:581][380]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:598][381]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:614][382]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:632][383]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:648][384]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:665][385]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:681][386]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:698][387]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:714][388]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:731][389]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:747][390]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:764][391]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:781][392]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:798][393]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:814][394]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:831][395]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:848][396]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:865][397]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:881][398]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:897][399]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:913][400]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:930][401]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:946][402]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:964][403]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:980][404]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.57:997][405]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:013][406]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:031][407]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:047][408]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:065][409]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:080][410]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:097][411]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:114][412]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:131][413]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:148][414]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:164][415]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:182][416]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:198][417]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:216][418]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:232][419]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:250][420]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:265][421]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:283][422]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:300][423]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:317][424]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:333][425]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:350][426]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:366][427]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:383][428]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:400][429]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:416][430]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:433][431]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:449][432]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:467][433]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:483][434]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:500][435]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:517][436]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:534][437]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:551][438]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:568][439]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:585][440]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:602][441]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:619][442]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:636][443]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:652][444]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:669][445]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:686][446]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:703][447]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:720][448]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:737][449]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:754][450]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:771][451]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:787][452]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:803][453]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:820][454]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:837][455]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:853][456]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:870][457]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:886][458]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:903][459]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:919][460]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:936][461]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:952][462]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:969][463]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.58:986][464]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:002][465]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:019][466]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:035][467]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:051][468]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:067][469]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:084][470]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:101][471]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:117][472]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:134][473]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:150][474]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:167][475]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:183][476]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:200][477]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:217][478]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:233][479]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:250][480]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:267][481]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:284][482]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:300][483]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:317][484]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:334][485]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:351][486]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:368][487]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:385][488]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:402][489]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:419][490]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:436][491]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:453][492]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:470][493]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:486][494]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:503][495]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:520][496]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:537][497]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:554][498]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:570][499]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:587][500]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:604][501]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:619][502]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:636][503]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:652][504]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:669][505]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:685][506]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:702][507]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:718][508]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:734][509]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:751][510]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:767][511]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:784][512]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:801][513]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:817][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:834][515]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:851][516]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:867][517]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:884][518]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:901][519]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:918][520]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:935][521]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:951][522]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:968][523]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.49.59:985][524]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:001][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:017][526]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:034][527]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:051][528]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:068][529]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:085][530]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:102][531]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:119][532]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:136][533]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:152][534]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:169][535]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:186][536]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:202][537]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:220][538]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:237][539]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:254][540]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:271][541]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:288][542]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:305][543]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:322][544]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:339][545]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:356][546]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:373][547]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:390][548]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:407][549]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:423][550]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:440][551]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:457][552]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:474][553]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:491][554]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:508][555]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:525][556]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:546][557]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:564][558]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:575][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:594][560]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:609][561]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:627][562]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:644][563]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:662][564]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:679][565]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:697][566]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:714][567]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:730][568]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:748][569]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:765][570]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:782][571]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:798][572]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:815][573]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:832][574]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:850][575]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:866][576]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:883][577]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:900][578]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:917][579]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:933][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:950][581]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:966][582]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.00:984][583]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.01:001][584]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.01:017][585]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.01:034][586]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.01:050][587]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.01:067][588]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You died
+[2019.12.11-12.50.01:069][588]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.50.01:069][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-12.50.01:069][588]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.11-12.50.01:069][588]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-12.50.01:113][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-12.50.01:114][588]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.50.01:169][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-12.50.01:174][588]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.12.11-12.50.01:230][589]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.12.11-12.50.10:445][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.51.19:107][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.51.29:629][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.51.29:715][ 59]BlueprintLog: New page: Compile halfBatteryPickup
+[2019.12.11-12.51.30:017][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2019.12.11-12.51.33:251][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-12.51.33:341][164]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-12.51.33:357][164]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.51.33:357][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-12.51.33:357][164]PIE: New page: PIE session: ThirdPersonExampleMap (11 dec 2019 14:51:33)
+[2019.12.11-12.51.33:358][164]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.11-12.51.33:373][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014903s)
+[2019.12.11-12.51.33:374][164]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.11-12.51.33:374][164]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2019.12.11-12.51.33:374][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016167s)
+[2019.12.11-12.51.33:428][164]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2019.12.11-12.51.33:444][164]LogInit: XAudio2 using 'Hörlurar (Oskars Airpods Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.11-12.51.33:455][164]LogInit: FAudioDevice initialized.
+[2019.12.11-12.51.33:466][164]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.11-12.51.33:468][164]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.11-13.51.33
+[2019.12.11-12.51.33:469][164]LogWorld: Bringing up level for play took: 0.001735
+[2019.12.11-12.51.33:469][164]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.12.11-12.51.33:471][164]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap −0,14
+[2019.12.11-12.51.33:471][164]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.51.37:952][431]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-12.51.53:324][352]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.11-12.52.09:233][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.52.09:234][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-12.52.09:234][302]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.11-12.52.09:234][302]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-12.52.09:276][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-12.52.09:276][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-12.52.09:333][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-12.52.09:338][302]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.12.11-12.52.09:392][303]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.12.11-12.52.34:569][295]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-12.52.34:632][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.12.11-12.52.34:901][295]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/ThirdPersonExampleMap_Auto65DC8B10D419CF081E87B03B5E7BCA7D5.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2019.12.11-12.52.34:904][295]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.318
+[2019.12.11-12.52.34:904][295]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.318
+[2019.12.11-12.52.34:906][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.12.11-12.52.34:974][295]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.12.11-12.52.34:974][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.12.11-12.52.35:043][295]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/ThirdPersonCharacter_Auto6E03797DA4D32113E78E5A99F5D69B0F8.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto6.uasset'
+[2019.12.11-12.52.35:044][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/halfBatteryPickup] ([1] browsable assets)...
+[2019.12.11-12.52.35:096][295]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/halfBatteryPickup.halfBatteryPickup]
+[2019.12.11-12.52.35:096][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/halfBatteryPickup]
+[2019.12.11-12.52.35:134][295]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/halfBatteryPickup_Auto6EB537E27442EF79E2829539A56DF0D10.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/halfBatteryPickup_Auto6.uasset'
+[2019.12.11-12.52.35:135][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/fullBatteryPickup] ([1] browsable assets)...
+[2019.12.11-12.52.35:187][295]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/fullBatteryPickup.fullBatteryPickup]
+[2019.12.11-12.52.35:187][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/fullBatteryPickup]
+[2019.12.11-12.52.35:225][295]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/fullBatteryPickup_Auto6E3FC27BE47DE65B95E69F2A1F166347A.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/fullBatteryPickup_Auto6.uasset'
+[2019.12.11-12.52.35:227][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Models/PowerBig] ([1] browsable assets)...
+[2019.12.11-12.52.35:280][295]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Blueprints/Models/PowerBig.PowerBig]
+[2019.12.11-12.52.35:280][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Models/PowerBig]
+[2019.12.11-12.52.35:299][295]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/PowerBig_Auto61CFFA6EB4AA210204F32E18F63AD2A8A.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Models/PowerBig_Auto6.uasset'
+[2019.12.11-12.52.35:300][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Models/defaultMat] ([1] browsable assets)...
+[2019.12.11-12.52.35:352][295]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Blueprints/Models/defaultMat.defaultMat]
+[2019.12.11-12.52.35:352][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Models/defaultMat]
+[2019.12.11-12.52.35:371][295]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/defaultMat_Auto6948B6E8544BBEAA581FF60BC75F10493.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Models/defaultMat_Auto6.uasset'
+[2019.12.11-12.52.35:372][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Models/PowerSmall] ([1] browsable assets)...
+[2019.12.11-12.52.35:424][295]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Blueprints/Models/PowerSmall.PowerSmall]
+[2019.12.11-12.52.35:424][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Models/PowerSmall]
+[2019.12.11-12.52.35:444][295]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/PowerSmall_Auto6C7111FAD4151C4F0DED3E4AC92255880.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Models/PowerSmall_Auto6.uasset'
+[2019.12.11-12.52.35:449][295]LogFileHelpers: Auto-saving content packages took 0.544
+[2019.12.11-13.02.17:358][264]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.12.11-13.02.21:913][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-13.02.22:019][439]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-13.02.22:036][439]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-13.02.22:036][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-13.02.22:036][439]PIE: New page: PIE session: ThirdPersonExampleMap (11 dec 2019 15:02:22)
+[2019.12.11-13.02.22:037][439]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.11-13.02.22:051][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014166s)
+[2019.12.11-13.02.22:053][439]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.11-13.02.22:053][439]LogPlayLevel: PIE: World Init took: (0.001832s)
+[2019.12.11-13.02.22:053][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016294s)
+[2019.12.11-13.02.22:110][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.11-13.02.22:127][439]LogInit: XAudio2 using 'Hörlurar (Oskars Airpods Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.11-13.02.22:138][439]LogInit: FAudioDevice initialized.
+[2019.12.11-13.02.22:150][439]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.11-13.02.22:152][439]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.11-14.02.22
+[2019.12.11-13.02.22:152][439]LogWorld: Bringing up level for play took: 0.001761
+[2019.12.11-13.02.22:152][439]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.12.11-13.02.22:154][439]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,542
+[2019.12.11-13.02.22:154][439]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-13.02.25:505][638]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-13.02.42:005][626]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.11-13.03.02:006][826]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2019.12.11-13.03.22:009][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 25
+[2019.12.11-13.03.29:544][473]LogBlueprintUserMessages: [halfBatteryPickup2_5] hungerMaxed
+[2019.12.11-13.03.32:794][667]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-13.03.42:021][221]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.11-13.04.01:856][408]LogBlueprintUserMessages: [halfBatteryPickup2_5] hungerMaxed
+[2019.12.11-13.04.02:022][418]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.11-13.04.22:038][618]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2019.12.11-13.04.36:925][509]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-13.04.40:541][726]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-13.04.42:043][816]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.11-13.04.45:991][ 51]LogBlueprintUserMessages: [fullBatteryPickup_2] hungerMaxed
+[2019.12.11-13.05.02:053][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.11-13.05.05:725][229]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-13.05.17:556][936]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-13.05.22:064][203]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.11-13.05.29:391][638]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-13.05.29:392][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-13.05.29:392][638]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.11-13.05.29:392][638]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-13.05.29:435][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-13.05.29:435][638]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-13.05.29:494][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-13.05.29:500][638]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.12.11-13.05.29:555][639]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.12.11-13.06.11:951][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-13.06.12:110][ 65]Cmd: MODE GRID=0
+[2019.12.11-13.06.14:099][133]Cmd: MODE GRID=1
+[2019.12.11-13.07.08:951][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-13.08.59:950][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-13.09.00:001][814]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-13.09.00:022][814]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-13.09.00:022][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-13.09.00:022][814]PIE: New page: PIE session: ThirdPersonExampleMap (11 dec 2019 15:09:00)
+[2019.12.11-13.09.00:023][814]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.11-13.09.00:039][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016138s)
+[2019.12.11-13.09.00:041][814]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.11-13.09.00:041][814]LogPlayLevel: PIE: World Init took: (0.001533s)
+[2019.12.11-13.09.00:041][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017832s)
+[2019.12.11-13.09.00:097][814]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.12.11-13.09.00:113][814]LogInit: XAudio2 using 'Hörlurar (Oskars Airpods Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.11-13.09.00:123][814]LogInit: FAudioDevice initialized.
+[2019.12.11-13.09.00:132][814]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.11-13.09.00:134][814]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.11-14.09.00
+[2019.12.11-13.09.00:134][814]LogWorld: Bringing up level for play took: 0.001658
+[2019.12.11-13.09.00:134][814]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.12.11-13.09.00:136][814]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,515
+[2019.12.11-13.09.00:136][814]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-13.09.10:688][444]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-13.09.14:170][653]LogBlueprintUserMessages: [halfBatteryPickup_2] hungerMaxed
+[2019.12.11-13.09.16:467][791]LogBlueprintUserMessages: [halfBatteryPickup2_5] hungerMaxed
+[2019.12.11-13.09.19:985][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.11-13.09.21:590][ 98]LogBlueprintUserMessages: [fullBatteryPickup_2] hungerMaxed
+[2019.12.11-13.09.40:003][194]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2019.12.11-13.09.53:470][  0]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-13.09.53:470][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-13.09.53:470][  0]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.11-13.09.53:471][  0]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-13.09.53:514][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-13.09.53:514][  0]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.11-13.09.53:570][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-13.09.53:575][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.12.11-13.09.53:626][  1]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.12.11-13.12.59:227][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-13.28.56:851][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.12.11-13.28.57:166][603]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/ThirdPersonExampleMapC31DA34C4F35B26D39F2A2B89C261BFD.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.11-13.28.57:448][603]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/ThirdPersonExampleMap_BuiltData29A7E51C497824BDDFEC778A1B9191FC.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.12.11-13.28.58:360][614]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2019.12.11-13.28.58:626][614]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/ThirdPersonExampleMap0DAB2ACB4C3A797ACB62099D7BE744DF.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.11-13.28.58:789][614]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/ThirdPersonExampleMap_BuiltData9941BA364E1ED24A9556B3B04D4C900A.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
