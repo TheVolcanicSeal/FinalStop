@@ -654,3 +654,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.11-11.57.45:806][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.12.11-11.57.45:809][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
 [2019.12.11-11.57.45:863][884]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.11-12.00.12:187][448]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-12.07.07:539][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.12.11-12.07.07:788][856]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/ThirdPersonExampleMap_Auto2E8292D6F49610CC3F00BEFAAC46F06D0.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.12.11-12.07.07:793][856]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.314
+[2019.12.11-12.07.07:793][856]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.314
+[2019.12.11-12.07.07:796][856]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.12.11-12.07.07:855][856]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.12.11-12.07.07:855][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.12.11-12.07.07:946][856]LogSavePackage: Moving '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/ThirdPersonCharacter_Auto272EC8D6D42DE9E5111EC85BC49A3041D.tmp' to '../../../../../../Users/oskar.emanuelsson1/Documents/Visual Studio 2017/Projects/FinalStop/Horror_Game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2019.12.11-12.07.07:948][856]LogFileHelpers: Auto-saving content packages took 0.152
